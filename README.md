@@ -41,6 +41,7 @@ Signed,
 1.  Alex Rapley [@arapl3y](https://github.com/arapl3y)
 1.  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 1.  Allen Hai [@coetry](https://github.com/coetry)
+1.  Alonso Isidoro @alonso_isidoro (https:/github.com/alonsoir)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
 1.  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
